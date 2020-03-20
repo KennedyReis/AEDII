@@ -1,2 +1,0 @@
-# AEDII
-Algoritmos De AEDII
